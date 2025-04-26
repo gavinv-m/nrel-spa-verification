@@ -1,5 +1,5 @@
 // validateSpaCapeTown.js
-import { getSpa, calcSpa } from './path/to/nrel-spa/index.js';
+import { getSpa, calcSpa } from 'nrel-spa';
 
 const date = new Date('2024-04-26T12:00:00Z');
 
